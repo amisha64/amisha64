@@ -24,18 +24,25 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"/>
- <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"/>
- <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
- <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=flat-square&logo=jupyter&logoColor=white"/>
- <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=flat-square&logo=anaconda&logoColor=white"/>
- <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" height="25"/>
+ <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="25"/>
+ <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=flat-square&logo=anaconda&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" height="25"/>
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"/>
 
 </p>
+<h2 align="center">IDEs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
+<p align="center">
+ <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=flat-square&logo=jupyter&logoColor=white" height="25"/>
+</p>
+ 
 <h2 align="center">Blogs <img src="https://giphy.com/gifs/primerstories-uncle-novel-fairy-tale-xT8qBt3pdiCZrk3erS" width="30"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://amishakirti6410.hashnode.dev/" />
