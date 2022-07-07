@@ -15,12 +15,17 @@ You can click the Preview link to take a look at your changes.
 
 
  <p align="center">
- <img src="https://badges.pufler.dev/visits/amisha64/amisha64"/>
+ <img src="https://gpvc.arturio.dev/amisha64"/>
+ <img src="https://img.shields.io/github/last-commit/amisha64/amisha64">
+ <a href="https://github.com/amisha64?tab=repositories"><img src="https://img.shields.io/github/stars/amisha64?affiliations=OWNER%2CCOLLABORATOR&color=success"></a>
+<!--  <img src="https://badges.pufler.dev/visits/amisha64/amisha64"/>
  <img src="https://badges.pufler.dev/years/amisha64"/>
  <img src="https://badges.pufler.dev/repos/amisha64"/>
- <img src="https://badges.pufler.dev/commits/monthly/amisha64"/>
+ <img src="https://badges.pufler.dev/commits/monthly/amisha64"/> -->
+ 
+<!--  <br>
+ <img src="https://github-profile-trophy.vercel.app/?username=amisha64&row=1"/> -->
 </p>
-
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <p align="center">
@@ -46,16 +51,27 @@ You can click the Preview link to take a look at your changes.
  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25"/>
 </p>
 
-<h2 align="center">CCODING PROFILES <img src="https://media.giphy.com/media/RPNjhgRAoqLVJvrlPP/giphy.gif" width="30"></h2>
+<h2 align="center">CODING PROFILES <img src="https://media.giphy.com/media/RPNjhgRAoqLVJvrlPP/giphy.gif" width="30"></h2>
 <p align="center">
 <a href = "https://leetcode.com/kirti_amisha/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <a href = "https://www.codechef.com/users/amisha6410"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
 <a href = "https://www.hackerrank.com/amishakirti6410?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>                                                                                                                              
                                                                                                                               
-<h2 align="center">Blogs <img src="https://media.giphy.com/media/xT8qBt3pdiCZrk3erS/giphy.gif" width="30"></h2>
+<h2 align="center">Blogs <img src="https://media.giphy.com/media/Ra7qHOOr080dY5xpW3/giphy.gif" width="30"></h2>
 <p align="center">
 <a href = "https://amishakirti6410.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+</p>
+
+## 🔖 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/amisha64/Steel-Edu">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amisha64&repo=Steel-Edu&theme=dark" />
+  </a>
+  <a href="https://github.com/amisha64/EducatVerse_TecHacks">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amisha64&repo=EducatVerse_TecHacks&theme=dark" />
+  </a>
 </p>
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
