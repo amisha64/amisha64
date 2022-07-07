@@ -1,24 +1,24 @@
-### Hi, I’m Sidharth! 👋
+### Hi, I’m Amisha Kirti! 👋
 - 👀 I’m interested in Data Science & Machine Learning.
 - 🌱 I’m currently solving machine learning problems.
 - 💞️ I’m looking to collaborate on freelancing works for Data Science Projects.
 - 💬 Ask me about Data Science or any tech related stuff.
-- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/sidharth178)
+- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/amisha-kirti-6410)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fact: I prefer Tea over Coffee.
 
 
 <!---
-sidharth178/sidharth178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+amisha64/amisha64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
  <p align="center">
- <img src="https://badges.pufler.dev/visits/sidharth178/sidharth178"/>
- <img src="https://badges.pufler.dev/years/sidharth178"/>
- <img src="https://badges.pufler.dev/repos/sidharth178"/>
- <img src="https://badges.pufler.dev/commits/monthly/sidharth178"/>
+ <img src="https://badges.pufler.dev/visits/aisha64/amisha64"/>
+ <img src="https://badges.pufler.dev/years/amisha64"/>
+ <img src="https://badges.pufler.dev/repos/amisha64"/>
+ <img src="https://badges.pufler.dev/commits/monthly/amisha64"/>
 </p>
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
