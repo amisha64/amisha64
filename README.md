@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/amisha64/Steel-Edu">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amisha64&repo=Steel-Edu&theme=dark" />
   </a>
-  <a href="https://github.com/amisha64/EducatVerse_TecHacks">
+   <a href="https://github.com/amisha64/EducatVerse_TecHacks">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amisha64&repo=EducatVerse_TecHacks&theme=dark" />
   </a>
 </p>
