@@ -61,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Blogs <img src="https://media.giphy.com/media/Ra7qHOOr080dY5xpW3/giphy.gif" width="30"></h2>
 <p align="center">
 <a href = "https://amishakirti6410.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href = "https://auth.geeksforgeeks.org/user/amishakirti6410/articles"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
 </p>
 
 ## 🔖 Featured Projects
