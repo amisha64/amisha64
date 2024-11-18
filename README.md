@@ -41,6 +41,14 @@ You can click the Preview link to take a look at your changes.
  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"/>
 
 </p>
+
+<h2 align="center">OTHER SKILLS <img src="https://media.giphy.com/media/RPNjhgRAoqLVJvrlPP/giphy.gif" width="30"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+</p>
+
 <h2 align="center">IDEs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <p align="center">
@@ -58,10 +66,14 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://www.hackerrank.com/amishakirti6410?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>                                                                                                                              
                                                                                                                               
-<h2 align="center">Blogs <img src="https://media.giphy.com/media/Ra7qHOOr080dY5xpW3/giphy.gif" width="30"></h2>
+<h2 align="center">Blogs & Community Profiles <img src="https://media.giphy.com/media/Ra7qHOOr080dY5xpW3/giphy.gif" width="30"></h2>
 <p align="center">
 <a href = "https://amishakirti6410.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 <a href = "https://auth.geeksforgeeks.org/user/amishakirti6410/articles"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
+<a href = "https://medium.com/@amishakirti6410"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href = "https://stackoverflow.com/users/14172167/amisha-kirti"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href = "https://www.kaggle.com/amishakirti"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href = "https://amishakirti6410.notion.site/Open-Source-1359f689d66680f29d40d84365906c7f?pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </p>
 
 ## 🔖 Featured Projects
@@ -75,14 +87,32 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<h2 align="center">Certifications & Badges <img src="https://media.giphy.com/media/Ra7qHOOr080dY5xpW3/giphy.gif" width="30"></h2>
+<p align="center">
+<a href = "https://www.credly.com/users/amisha-kirti.9e5a70ec"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href = "https://www.coursera.org/learner/amisha-kirti-6410"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" /></a>
+<a href = "https://scholar.google.com/citations?user=_AdbEU8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+
+<h2 align="center">Work Experience <img src="https://media.giphy.com/media/Ra7qHOOr080dY5xpW3/giphy.gif" width="30"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
+</p>
+
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-kirti_amisha-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kirti_amisha/" />
 <img src="https://img.shields.io/badge/-amishakirti6410@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amishakirti6410@gmail.com" />
 <img src="https://img.shields.io/badge/-Amisha_Kirti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amisha-kirti-6410//" />
-<img src="https://img.shields.io/badge/-kirtiastic-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kirtiastic" />
-
+<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&link=https://x.com/kirtiastic" />
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://youtube.com/@amishakirti6410?si=PN1PI11eJGpBiBNc" />
 </p>
+
+<h2 align="center">Hobbies <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/kirti_amisha/" />
+<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white&link=https://in.pinterest.com/amishakirti64/" />
+<img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white&link=https://www.duolingo.com/profile/AmishaKirti" />
+</p>
+
 <br>
 <h2 align="center">GitHub Analytics ⚙️ &nbsp;</h2>
 <p align="center">
